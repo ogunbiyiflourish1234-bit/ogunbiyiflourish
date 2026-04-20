@@ -188,7 +188,6 @@ select {
 .gap-3 {
   gap: 1.5rem;
 }
-}
 
 @media (prefers-color-scheme: dark) {
   :root {
